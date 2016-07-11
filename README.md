@@ -37,6 +37,7 @@ Picking the right physics engine for your game is one of the most important thin
  - If you are using P2 Physics this program will allow you to draw the exact shape of the body that you want. This means you could have a banana for players to collect with the actual shape of a banana instead of the body being a box.
 
 ## Helpful Links
+ - [Phaser Docs](http://phaser.io/docs/2.6.0/index)
  - [Flappy Bird tutorial](http://www.lessmilk.com/tutorial/flappy-bird-phaser-1) (Try out this tutorial first)
  - [General Phaser tutorials](https://www.youtube.com/channel/UCv0j-6tXIlnxmOu9FA3qFtw)
 
