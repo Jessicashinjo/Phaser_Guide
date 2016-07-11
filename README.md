@@ -9,13 +9,14 @@ This guide is a basic introduction to Phaser. The goal is to help you avoid some
  - Body- This is an invisible object attached to your sprite. Physics will be applied to your sprite using the body.
  - [Group](http://phaser.io/docs/2.6.0/Phaser.Group.html) - Multiple of the same sprite. The same physics can be applied to the entire group.
  - Asset - Anything that you add to your game. For example: Artwork and audio.
+ - Physics Engine - It allows your player to run, jump, fall, etc through velocity and gravity. It is also what detects collision between 2 objects in your game. In advanced physics engines you can even have your player swing on ropes.
 
 ## Physics Engines
 
-Picking the right physics engine for your game is one of the most important things you will do. You should use the Physics Arcade engine unless you have special circumstances. Physics Arcade can do almost anything you will need and the docs/examples are extensive. Below is an explanation of the differences between Physics Arcade and P2 Physics.
+Picking the right physics engine for your game is one of the most important things you will do. You should use the Physics Arcade engine unless you have special curcumstances. Physics Arcade can do almost anything you will need and the docs/examples are extensive. Below is an explanation of the differences between Physics Arcade and P2 Physics.
 
 #### [Physics Arcade](http://phaser.io/docs/2.6.0/Phaser.Physics.Arcade.html)
- - Easier to use than P2 with easy to understand documentation and numerous examples.
+ - Easier to use than P2 with easy to understand documenation and numerous examples.
  - Uses plain English to describe physics.
  - The body of a sprite is represented by an invisible box. You can increase or decrease the size of the box but it will always be a box and not the outline of your sprite.
  - You can do everything but extremely complex physics.
