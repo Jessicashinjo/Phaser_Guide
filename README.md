@@ -7,20 +7,20 @@ This guide is a basic introduction to Phaser. The goal is to help you avoid some
 ## Terms to know
  - Sprite- A computer graphic that can be moved and animated. This is usually created by having multiple frames on a spritesheet.
  - Body- This is an invisible object attached to your sprite. Physics will be applied to your sprite using the body.
- - Group - Multiple of the same sprite. The same physics can be applied to the entire group.
+ - [Group](http://phaser.io/docs/2.6.0/Phaser.Group.html) - Multiple of the same sprite. The same physics can be applied to the entire group.
  - Asset - Anything that you add to your game. For example: Artwork and audio.
 
 ## Physics Engines
 
 Picking the right physics engine for your game is one of the most important things you will do. You should use the Physics Arcade engine unless you have special curcumstances. Physics Arcade can do almost anything you will need and the docs/examples are extensive. Below is an explanation of the differences between Physics Arcade and P2 Physics.
 
-#### Physics Arcade
+#### [Physics Arcade](http://phaser.io/docs/2.6.0/Phaser.Physics.Arcade.html)
  - Easier to use than P2 with easy to understand documenation and numerous examples.
  - Uses plain English to describe physics.
  - The body of a sprite is represented by an invisible box. You can increase or decrease the size of the box but it will always be a box and not the outline of your sprite.
  - You can do everything but extremely complex physics.
 
-#### P2 Physics
+#### [P2 Physics](http://phaser.io/docs/2.6.0/Phaser.Physics.P2.html)
  - More difficult to use than the Physics Arcade and the documentation is weaker.
  - Uses actual physics terminology like "Kinematic" instead of plain terms like "immovable" which makes it more diffcult to look up what you want to do.
  - The body of a sprite can be represented by the actual outline of the sprite using the Physics Editor program.
@@ -40,6 +40,9 @@ Picking the right physics engine for your game is one of the most important thin
  - [Phaser Docs](http://phaser.io/docs/2.6.0/index)
  - [Flappy Bird tutorial](http://www.lessmilk.com/tutorial/flappy-bird-phaser-1) (Try out this tutorial first)
  - [General Phaser tutorials](https://www.youtube.com/channel/UCv0j-6tXIlnxmOu9FA3qFtw)
+ - [Kenney's Assets](http://kenney.nl/assets) (Free if you download packs 1 at a time)
+ - [Gameart2D](http://www.gameart2d.com/freebies.html) (Free assets)
+ - [Open Game Art](http://opengameart.org/) (Free general game assets)
 
 ## Previous Cohort Games
 
