@@ -12,10 +12,10 @@ This guide is a basic introduction to Phaser. The goal is to help you avoid some
 
 ## Physics Engines
 
-Picking the right physics engine for your game is one of the most important things you will do. You should use the Physics Arcade engine unless you have special curcumstances. Physics Arcade can do almost anything you will need and the docs/examples are extensive. Below is an explanation of the differences between Physics Arcade and P2 Physics.
+Picking the right physics engine for your game is one of the most important things you will do. You should use the Physics Arcade engine unless you have special circumstances. Physics Arcade can do almost anything you will need and the docs/examples are extensive. Below is an explanation of the differences between Physics Arcade and P2 Physics.
 
 #### [Physics Arcade](http://phaser.io/docs/2.6.0/Phaser.Physics.Arcade.html)
- - Easier to use than P2 with easy to understand documenation and numerous examples.
+ - Easier to use than P2 with easy to understand documentation and numerous examples.
  - Uses plain English to describe physics.
  - The body of a sprite is represented by an invisible box. You can increase or decrease the size of the box but it will always be a box and not the outline of your sprite.
  - You can do everything but extremely complex physics.
