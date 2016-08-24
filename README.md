@@ -64,5 +64,5 @@ Picking the right physics engine for your game is one of the most important thin
 - Code: [Protein Panic Code](https://github.com/NewEvolution/proteinpanic)
 
 ##### Jessica Wynn
-- Game: [Grimm](jessicashinjo.github.io/Grimm)
+- Game: [Grimm](https://jessicashinjo.github.io/Grimm)
 - Code: [Grimm Code](https://github.com/Jessicashinjo/Grimm)
