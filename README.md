@@ -47,6 +47,10 @@ Picking the right physics engine for your game is one of the most important thin
 
 ## Previous Cohort Games
 
+##### Alex Craven
+- Game: [Pokemon Golden Silver](https://pokemon-golden-silver.firebaseapp.com/)
+- Code: [Pokemon Golden Silver Code](https://github.com/wacraven/frontend-capstone)
+
 ##### William Hickok
 - Game: [PhonX Rave](http://phonxrave.herokuapp.com/)
 - Code: [PhonX Rave Code](https://github.com/williamhickok11/Front_End_Capstone)
@@ -58,3 +62,7 @@ Picking the right physics engine for your game is one of the most important thin
 ##### Ryan Tanay
 - Game: [Protein Panic](http://proteinpanic.newevolution.org/#/)
 - Code: [Protein Panic Code](https://github.com/NewEvolution/proteinpanic)
+
+##### Jessica Wynn
+- Game: [Grimm](jessicashinjo.github.io/Grimm)
+- Code: [Grimm Code](https://github.com/Jessicashinjo/Grimm)
